@@ -21,4 +21,18 @@ aside section p {
 
 aside section h4 {
   text-align: center;
+  color: navy;
+  font-size: 30px;
+}
+
+ul li {
+  list-style-type: upper-alpha;
+  padding: 10px;
+  margin:15px;
+  background-color: #EB4646;
+  text-align: center;
+  color: #46EBEB;
+  border: 10px inset #46EBEB;
+  font-family: Arial;
+  font-weight: bold;
 }
